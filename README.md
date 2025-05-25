@@ -1,4 +1,4 @@
-Segue o **material completo em Markdown** com todos os passos para criar um projeto Spring Boot com banco **H2**, incluindo comandos `curl` para realizar as operações de **POST**, **PUT (update)** e **DELETE**, além da orientação para trocar para o MySQL.
+Projeto Spring Boot com banco **H2**, incluindo comandos `curl` para realizar as operações de **POST**, **PUT (update)** e **DELETE**
 
 ---
 
